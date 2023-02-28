@@ -1,0 +1,51 @@
+ID,Species,ant,sex,mated,abd_vol,ovi_vol,ratio
+#24,other,No,male,no,,,NA
+#25,T.M,yes,male,NA,,,NA
+#26,T.M,yes,male,NA,,,NA
+#27,T.M,yes,IM,/,,,NA
+#28,T.M,yes,female,NA,,,NA
+#29,T.M,yes,female,mom,9.13,2.08,0.227820372
+#30,T.M,yes,female,yes,10.64,1.94,0.182330827
+#31,T.M,yes,IM,/,,,NA
+#32,T.M,yes,female,NA,,,NA
+#33,T.M,yes,male,NA,,,NA
+#34,T.M,yes,female,mom,11.034,1.29,0.116911365
+#35,T.M,yes,female,with egg,14.54,2.76,0.189821183
+#36,T.M,yes,female,NA,,,NA
+#38,T.M,yes,female,NA,,,NA
+#39,ant,yes,female,mom,,,NA
+#41,other,No,female,mom,29.57,12.21,0.412918498
+#42,T.M,yes,male,NA,,,NA
+#43,T.M,yes,female,NA,,,NA
+#44,T.M,yes,male,NA,,,NA
+#45,T.M,yes,female,NA,,,NA
+#46,T.M,yes,female,NA,,,NA
+#47,other,No,female,NA,,,NA
+#48,other,No,female,mom for~20days,,,NA
+#49,other,No,female,mom ,,,NA
+#50,ant,yes,female,mom for~20days,5.21,1.31,0.251439539
+#51,T.M,yes,female,virgin with ~5 eggs,6.25,0.41,0.0656
+#52,ant,yes,female,mom for~20days,3.15,0.17,0.053968254
+#53,T.M,yes,male,,,,NA
+#54,T.M,yes,female,mom kids20-30D,11.31,3.31,0.292661362
+#55,T.M,yes,female,"yes, no egg",,,NA
+#56,ant,yes,female,mom,4.56,0.71,0.155701754
+#57,T.M,yes,female,"with egg,used to be mom for 40D",,,NA
+#59,other,No,female,egg,,,NA
+#60,other,No,female,egg,,,NA
+#61,T.M,yes,female,virgin with egg,,,NA
+#62,ant,yes,female,mom before egg now,2.65,0.51,0.19245283
+#63,other,No,female,egg A,,,NA
+#64,other,No,female,eggB,,,NA
+#65,other,No,female,eggC,,,NA
+#66,ant,yes,female,egg D,,,NA
+#67,T.M,yes,female,1d after egg,,,NA
+#68,other,No,female,eggE,,,NA
+#69,other,No,female,"egg 1-2d,(F?)",,,NA
+#70,other,No,female,egg 1-2dG,,,NA
+#71,other,No,female,egg F?,,,NA
+#73,T.M,yes,female,egg<20h,,,NA
+#74,other,No,female,reprodcutive nest,9.11,3.91,0.429198683
+#75,ant,yes,female,egg 1-2d I,,,NA
+#76,T.M,yes,female,mom early,11.6,2.44,0.210344828
+#78,other,No,female,reprodcutive nest,7.7,4.43,0.575324675
